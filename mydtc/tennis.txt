@@ -1,0 +1,17 @@
+weater,humid,temp,weekend,tennis
+Rainy,Hot,High,F,No
+Rainy,Hot,High,T,No
+Overcast,Hot,High,F,Yes
+Sunny,Mild,High,F,Yes
+Sunny,Cool,Normal,F,Yes
+Sunny,Cool,Normal,T,No
+Overcast,Cool,Normal,T,Yes
+Rainy,Mild,High,F,No
+Rainy,Cool,Normal,F,Yes
+Sunny,Mild,Normal,F,Yes
+Rainy,Mild,Normal,T,Yes
+Overcast,Mild,High,T,Yes
+Overcast,Hot,Normal,F,Yes
+Sunny,Mild,High,T,No
+Sunny,Hot,High,T,No
+Sunny,Mild,High,F,Yes

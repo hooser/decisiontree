@@ -1,0 +1,3 @@
+Rainy,Hot,High,F
+Rainy,Hot,High,T
+Sunny,Cool,High,F
